@@ -10,6 +10,7 @@ Conjunto de teste: Dados utilizados para definir e validar o funcionamento do mo
 Excluir linhas com dados insuficientes.
 
 # 4. O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo? 
-
+A matriz de confusão é uma tabela que resume os resultados de um modelo de classificação, comparando as previsões feitas com os valores reais.
 
 # 5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
+Na saúde, como em: diagnóstico precoce de doenças, análise de exames de imagem, previsão de surtos epidemiológicos.
